@@ -1,3 +1,5 @@
+//Imrul Hasan
+//CSE,UAP--16101034
 #include <iostream>
 #include<string.h>
 #include<stdlib.h>
