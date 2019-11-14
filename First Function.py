@@ -1,4 +1,6 @@
 
+#Imrul Hasan
+#CSE,UAP--16101034
 production=[]
 n = int(input("How many grammers you want to add- \n"))
 for i in range (0,n):
